@@ -18,6 +18,13 @@ pacman -Syy
 pacman -S grub-btrfs inotify-tools --noconfirm
 pacman -S btrfs-assistant --noconfirm
 snapper -c root create-config /
+grub-mkconfig -o /boot/grub/grub.cfg
 systemctl enable grub-btrfsd
+
+pacman -S zsh zsh-autosuggestions zsh-history-substring-search zsh-syntax-highlighting zsh-theme-powerlevel10k lsd --noconfirm
+mv .zshrc ~/
+chsh -s /usr/bin/zsh
+
+
 pacman -S pamac-aur --noconfirm
 reboot now
