@@ -58,7 +58,7 @@ bindkey '^H' backward-kill-word                                 # delete previou
 bindkey '^[[Z' undo                                             # Shift+tab undo last action
 
 ## Alias section 
-alias cp='f(){ cp ${1:--i} };f'                                 # Confirm before overwriting something
+alias cp='cp -i'                                                # Confirm before overwriting something
 alias df='f(){ df ${1:--h} };f'                                 # Human-readable sizes
 alias free='f(){ free ${1:--m} };f'                             # Show sizes in MB
 alias ls='lsd --color=auto'                                     # Colorize the ls output
