@@ -1,3 +1,6 @@
 [submodule "zsh-syntax-highlighting"]
 	path = zsh-syntax-highlighting
 	url = https://github.com/catppuccin/zsh-syntax-highlighting.git
+[submodule "PaperWM"]
+	path = PaperWM
+	url = https://github.com/paperwm/PaperWM.git

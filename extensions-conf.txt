@@ -1,0 +1,95 @@
+[aylurs-widgets]
+background-clock=false
+dash-board=false
+dash-hide-activities=false
+date-menu-date-format='%b %e  %H:%M'
+date-menu-show-clocks=false
+date-menu-show-system-levels=false
+date-menu-show-user=false
+date-menu-tweaks=true
+notification-indicator-offset=1
+notification-indicator-position=2
+power-menu=false
+quick-settings-levels-show-ram=false
+quick-settings-levels-show-storage=true
+quick-settings-levels-show-temp=false
+quick-settings-style=0
+quick-settings-tweaks=true
+
+[blur-my-shell/panel]
+blur=false
+
+[dash-to-dock-pop]
+apply-custom-theme=false
+background-opacity=0.80000000000000004
+border-radius=60
+custom-theme-shrink=false
+dash-max-icon-size=48
+dock-alignment='CENTRE'
+dock-position='BOTTOM'
+floating-margin=4
+force-straight-corner=false
+height-fraction=0.90000000000000002
+hot-keys=false
+preferred-monitor=-2
+preferred-monitor-by-connector='Virtual-1'
+preview-size-scale=0.20000000000000001
+show-mounts=false
+show-trash=false
+
+[just-perfection]
+accessibility-menu=true
+activities-button=true
+app-menu=true
+app-menu-icon=true
+background-menu=true
+dash=true
+dash-icon-size=0
+double-super-to-appgrid=true
+gesture=true
+hot-corner=false
+osd=true
+panel=true
+panel-arrow=true
+panel-corner-size=0
+panel-in-overview=true
+panel-size=45
+ripple-box=true
+search=true
+show-apps-button=true
+startup-status=0
+theme=false
+window-demands-attention-focus=true
+window-picker-icon=true
+window-preview-caption=true
+workspace=true
+workspace-background-corner-size=0
+workspace-popup=true
+workspaces-in-app-grid=true
+
+[paperwm]
+has-installed-config-template=true
+use-default-background=true
+
+[paperwm/keybindings]
+close-window=['<Super>q']
+move-down=['<Control><Super>Down', '<Shift><Super>j']
+move-left=['<Control><Super>comma', '<Shift><Super>comma', '<Control><Super>Left', '<Shift><Super>h']
+move-right=['<Control><Super>period', '<Shift><Super>period', '<Control><Super>Right', '<Shift><Super>l']
+move-up=['<Control><Super>Up', '<Shift><Super>k']
+new-window=['<Super>n']
+switch-down=['<Super>Down', '<Super>j']
+switch-left=['<Super>Left', '<Super>h']
+switch-right=['<Super>Right', '<Super>l']
+switch-up=['<Super>Up', '<Super>k']
+
+[rounded-window-corners]
+custom-rounded-corner-settings=@a{sv} {}
+focused-shadow={'vertical_offset': 4, 'horizontal_offset': 0, 'blur_offset': 28, 'spread_radius': 4, 'opacity': 60}
+global-rounded-corner-settings={'padding': <{'left': <uint32 1>, 'right': <uint32 1>, 'top': <uint32 1>, 'bottom': <uint32 1>}>, 'keep_rounded_corners': <{'maximized': <false>, 'fullscreen': <false>}>, 'border_radius': <uint32 12>, 'smoothing': <uint32 0>}
+settings-version=uint32 5
+skip-libadwaita-app=true
+unfocused-shadow={'vertical_offset': 0, 'horizontal_offset': 0, 'blur_offset': 0, 'spread_radius': 0, 'opacity': 0}
+
+[user-theme]
+name='Catppuccin-Mocha-Standard-Lavender-Dark'
