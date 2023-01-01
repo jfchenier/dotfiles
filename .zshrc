@@ -61,7 +61,7 @@ bindkey '^[[Z' undo                                             # Shift+tab undo
 alias cp='cp -i'                                                # Confirm before overwriting something
 alias df='f(){ df ${1:--h} };f'                                 # Human-readable sizes
 alias free='f(){ free ${1:--m} };f'                             # Show sizes in MB
-alias ls='lsd --color=auto'                                     # Colorize the ls output
+alias ls='lsd --group-dirs first --color=auto'                                     # Colorize the ls output
 alias ll='lsd -la'                                              # Use a long listing format
 
 # Theming section  

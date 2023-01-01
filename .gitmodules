@@ -4,3 +4,12 @@
 [submodule "PaperWM"]
 	path = PaperWM
 	url = https://github.com/paperwm/PaperWM.git
+[submodule "alacritty"]
+	path = alacritty
+	url = https://github.com/catppuccin/alacritty.git
+[submodule "youtubemusic"]
+	path = youtubemusic
+	url = https://github.com/catppuccin/youtubemusic.git
+[submodule ".config/kitty/themes"]
+	path = .config/kitty/themes
+	url = https://github.com/catppuccin/kitty.git

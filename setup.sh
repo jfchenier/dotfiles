@@ -24,7 +24,7 @@ rm -r /.snapshots
 snapper -c root create-config /
 systemctl enable grub-btrfsd
 
-pacman -S zsh zsh-autosuggestions zsh-history-substring-search zsh-syntax-highlighting zsh-theme-powerlevel10k ttf-meslo-nerd-font-powerlevel10k lsd --noconfirm
+pacman -S zsh zsh-autosuggestions zsh-history-substring-search zsh-syntax-highlighting zsh-theme-powerlevel10k ttf-meslo-nerd-font-powerlevel10k lsd c-lolcat --noconfirm
 
 pacman -S gnome-browser-connector --noconfirm
 pacman -S catppuccin-gtk-theme-mocha catppuccin-wallpapers-git catppuccin-mocha-grub-theme-git tela-icon-theme-git --noconfirm
