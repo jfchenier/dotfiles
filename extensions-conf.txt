@@ -1,8 +1,10 @@
 [aylurs-widgets]
 background-clock=false
+battery-bar-offset=6
 dash-board=false
 dash-hide-activities=false
-date-menu-date-format='%b %e  %H:%M'
+date-menu-date-format='%b%e  %H:%M'
+date-menu-hide-notifications=true
 date-menu-show-clocks=false
 date-menu-show-system-levels=false
 date-menu-show-user=false
@@ -21,8 +23,10 @@ blur=false
 
 [dash-to-dock-pop]
 apply-custom-theme=false
-background-opacity=0.80000000000000004
+background-color='rgb(32,27,47)'
+background-opacity=1.0
 border-radius=60
+custom-background-color=true
 custom-theme-shrink=false
 dash-max-icon-size=48
 dock-alignment='CENTRE'
@@ -32,10 +36,14 @@ force-straight-corner=false
 height-fraction=0.90000000000000002
 hot-keys=false
 preferred-monitor=-2
-preferred-monitor-by-connector='Virtual-1'
 preview-size-scale=0.20000000000000001
 show-mounts=false
 show-trash=false
+transparency-mode='FIXED'
+
+[gtktitlebar]
+hide-window-titlebars='always'
+restrict-to-primary-screen=false
 
 [just-perfection]
 accessibility-menu=true
@@ -48,6 +56,7 @@ dash-icon-size=0
 double-super-to-appgrid=true
 gesture=true
 hot-corner=false
+keyboard-layout=false
 osd=true
 panel=true
 panel-arrow=true
@@ -69,7 +78,9 @@ workspaces-in-app-grid=true
 
 [paperwm]
 has-installed-config-template=true
+topbar-follow-focus=false
 use-default-background=true
+vertical-margin-bottom=10
 
 [paperwm/keybindings]
 close-window=['<Super>q']
@@ -88,7 +99,7 @@ custom-rounded-corner-settings=@a{sv} {}
 focused-shadow={'vertical_offset': 4, 'horizontal_offset': 0, 'blur_offset': 28, 'spread_radius': 4, 'opacity': 60}
 global-rounded-corner-settings={'padding': <{'left': <uint32 1>, 'right': <uint32 1>, 'top': <uint32 1>, 'bottom': <uint32 1>}>, 'keep_rounded_corners': <{'maximized': <false>, 'fullscreen': <false>}>, 'border_radius': <uint32 12>, 'smoothing': <uint32 0>}
 settings-version=uint32 5
-skip-libadwaita-app=true
+tweak-kitty-terminal=true
 unfocused-shadow={'vertical_offset': 0, 'horizontal_offset': 0, 'blur_offset': 0, 'spread_radius': 0, 'opacity': 0}
 
 [user-theme]
