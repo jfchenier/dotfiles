@@ -3388,7 +3388,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   spacing: 12px;
 }
 
-#overviewGroup, .controls-manager {
+#overviewGroup {
   background-color: #11111b;
 }
 
