@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg263"
+   sodipodi:docname="kitty.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs267" />
+  <sodipodi:namedview
+     id="namedview265"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="9.4244076"
+     inkscape:cx="48.438058"
+     inkscape:cy="34.060496"
+     inkscape:window-width="2530"
+     inkscape:window-height="1015"
+     inkscape:window-x="1935"
+     inkscape:window-y="55"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg263" />
+  <rect
+     x="1.058"
+     y="1.581"
+     width="14.817"
+     height="12.7"
+     rx="1.8524"
+     ry="1.8524"
+     fill="#333"
+     id="rect233" />
+  <rect
+     x="2.1169999"
+     y="2.645"
+     width="12.699"
+     height="10.583"
+     rx="0.79452002"
+     ry="0.79452002"
+     opacity="0.1"
+     id="rect235"
+     style="fill:#ffffff" />
+  <g
+     id="g828"
+     transform="translate(0.09435076)">
+    <path
+       d="m 13.406129,5.7982931 a 0.264,0.264 0 0 1 0.262,0.13 0.264,0.264 0 0 1 -0.097,0.362 l -2.841999,1.6400002 2.841999,1.6410006 a 0.264,0.264 0 0 1 0.097,0.362 c -0.074,0.1269991 -0.235,0.1699991 -0.362,0.097 L 10.09913,8.1782933 a 0.26,0.26 0 0 1 -0.1270003,-0.225 c -0.002,-0.008 -10e-4,-0.015 -0.002,-0.022 0,-0.008 0,-0.015 0.002,-0.023 A 0.26,0.26 0 0 1 10.09913,7.6842931 l 3.206999,-1.853 a 0.266,0.266 0 0 1 0.1,-0.033 z"
+       fill="#ffffff"
+       paint-order="stroke markers fill"
+       id="path13-6" />
+    <path
+       d="m 3.3381698,5.7982926 a 0.264,0.264 0 0 0 -0.262,0.13 0.264,0.264 0 0 0 0.097,0.362 l 2.841999,1.6400002 -2.841999,1.6410006 a 0.264,0.264 0 0 0 -0.097,0.362 c 0.074,0.1270006 0.235,0.1700006 0.362,0.097 L 6.6451693,8.1782928 a 0.26,0.26 0 0 0 0.127,-0.225 c 0.002,-0.008 0.001,-0.015 0.002,-0.022 0,-0.008 0,-0.015 -0.002,-0.023 a 0.26,0.26 0 0 0 -0.127,-0.2240002 l -3.2069995,-1.853 a 0.266,0.266 0 0 0 -0.1,-0.033 z"
+       fill="#ffffff"
+       paint-order="stroke markers fill"
+       id="path13-6-7" />
+  </g>
+</svg>
