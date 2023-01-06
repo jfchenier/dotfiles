@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg224"
+   sodipodi:docname="Alacritty.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs228" />
+  <sodipodi:namedview
+     id="namedview226"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="9.4244076"
+     inkscape:cx="30.081466"
+     inkscape:cy="33.211637"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="2540"
+     inkscape:window-y="55"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g222" />
+  <rect
+     x="1.0579998"
+     y="2.1165001"
+     width="14.817"
+     height="12.7"
+     rx="1.8523999"
+     ry="1.8523999"
+     fill="#333333"
+     id="rect194" />
+  <g
+     fill="#fff"
+     id="g222">
+    <rect
+       x="2.1169999"
+       y="3.175"
+       width="12.699"
+       height="10.583"
+       rx="0.79452002"
+       ry="0.79452002"
+       opacity="0.1"
+       id="rect196" />
+    <g
+       id="g265"
+       transform="matrix(0.53008026,0,0,0.53008026,-1.9453004,0.90652003)"
+       style="fill:#ffffff">
+      <path
+         d="m 12.440235,10.80677 -0.207,0.507 c 0.557,1.729 0.557,1.729 0.868,3.237 0.312,-1.508 0.312,-1.508 0.87,-3.237 l -0.87,-2.1199998 z"
+         fill="#3c98fe"
+         id="path6"
+         style="fill:#ffffff" />
+      <path
+         d="m 12.375235,5.7767702 h 1.452 l 3.216,7.9379998 h -1.349 l -2.593,-6.0629998 -2.592,6.0629998 h -1.349 z"
+         fill="#ec7a02"
+         id="path8"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
