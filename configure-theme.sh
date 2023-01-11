@@ -2,6 +2,7 @@
 
 chsh -s /usr/bin/zsh $USER
 cp .zshrc ~/
+cp .p10k.zsh ~/
 cp .gitconfig ~/
 mkdir ~/.zsh/
 cp zsh-syntax-highlighting/themes/catppuccin_mocha-zsh-syntax-highlighting.zsh ~/.zsh/
