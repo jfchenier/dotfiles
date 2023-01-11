@@ -1,1 +1,1 @@
-sudo pacman -S --needed - < base-packages
+sudo pacman -S --needed - < extra-packages
