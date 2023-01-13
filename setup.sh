@@ -19,8 +19,6 @@ systemctl enable NetworkManager.service
 pacman -S grub-btrfs inotify-tools --noconfirm
 grub-mkconfig -o /boot/grub/grub.cfg
 pacman -S btrfs-assistant --noconfirm
-umount /.snapshots
-rm -r /.snapshots
 snapper -c root create-config /
 systemctl enable grub-btrfsd
 

@@ -7,3 +7,10 @@
 - GTK Title Bar
 - Just Perfection
 - Rounded Window corners
+
+# btrfs helper
+
+## compress
+ ```
+ btrfs filesystem defragment -r -v -czstd /
+ ```
